@@ -7,7 +7,7 @@ A production Uniswap v4 hook. It prices every swap by overriding the pool's LP f
 - **Site:** https://expiry-settle.pages.dev
 - **Catalogue:** https://hookforge.pages.dev
 - **Contract:** [`src/hooks/ExpirySettleHook.sol`](src/hooks/ExpirySettleHook.sol)
-- **Licence:** MIT
+- **Licence:** Apache-2.0
 
 ## How it works
 
