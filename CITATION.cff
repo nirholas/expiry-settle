@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "expiry-settle"
+abstract: "Gives a pool a maturity, and makes moving its price monotonically more expensive as that maturity approaches, so the settlement price is dearest to manipulate exactly when manipulating it would pay most."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/expiry-settle"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

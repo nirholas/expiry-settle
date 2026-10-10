@@ -1,5 +1,10 @@
 # ExpirySettle
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/expiry-settle?style=flat&logo=github)](https://github.com/nirholas/expiry-settle/stargazers) [![License](https://img.shields.io/github/license/nirholas/expiry-settle?style=flat)](https://github.com/nirholas/expiry-settle/blob/HEAD/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/nirholas/expiry-settle?style=flat)](https://github.com/nirholas/expiry-settle/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/expiry-settle/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/expiry-settle/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 **Gives a pool a maturity, and makes moving its price monotonically more expensive as that maturity approaches, so the settlement price is dearest to manipulate exactly when manipulating it would pay most.**
 
 A production Uniswap v4 hook. It prices every swap by overriding the pool's LP fee, so the value it captures is paid to in-range liquidity and never to the hook. No owner, no pause switch, no upgrade path.
@@ -125,3 +130,26 @@ Not affiliated with Uniswap Labs.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/expiry-settle&type=Date)](https://www.star-history.com/#nirholas/expiry-settle&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If expiry-settle saves you time, **[star it on GitHub](https://github.com/nirholas/expiry-settle)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=expiry-settle%3A%20Gives%20a%20pool%20a%20maturity%2C%20and%20makes%20moving%20its%20price%20monotonically%20more%20expensive%20as%20that%20maturity&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fexpiry-settle) · [Share on Bluesky](https://bsky.app/intent/compose?text=expiry-settle%3A%20Gives%20a%20pool%20a%20maturity%2C%20and%20makes%20moving%20its%20price%20monotonically%20more%20expensive%20as%20that%20maturity%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fexpiry-settle) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fexpiry-settle) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fexpiry-settle&t=expiry-settle%3A%20Gives%20a%20pool%20a%20maturity%2C%20and%20makes%20moving%20its%20price%20monotonically%20more%20expensive%20as%20that%20maturity) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fexpiry-settle&title=expiry-settle%3A%20Gives%20a%20pool%20a%20maturity%2C%20and%20makes%20moving%20its%20price%20monotonically%20more%20expensive%20as%20that%20maturity)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/expiry-settle` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/expiry-settle/issues) or [start a discussion](https://github.com/nirholas/expiry-settle/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/expiry-settle)](https://github.com/nirholas/expiry-settle/graphs/contributors)
+
+<!-- /three.ws:growth -->

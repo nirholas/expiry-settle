@@ -1,0 +1,28 @@
+# expiry-settle
+
+> Gives a pool a maturity, and makes moving its price monotonically more expensive as that maturity approaches, so the settlement price is dearest to manipulate exactly when manipulating it would pay most.
+
+expiry-settle is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md): install, usage and reference
+- [How it works](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#how-it-works)
+- [Prior art](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#prior-art)
+- [Where it does not help](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#where-it-does-not-help)
+- [Using it](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#using-it)
+- [What it reverts with](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#what-it-reverts-with)
+- [The callbacks it claims](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#the-callbacks-it-claims)
+- [It says what it is, on-chain](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#it-says-what-it-is-on-chain)
+- [Build and test](https://github.com/nirholas/expiry-settle/blob/HEAD/README.md#build-and-test)
+- [AGENTS.md](https://github.com/nirholas/expiry-settle/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/expiry-settle/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/expiry-settle)
+- [Issues](https://github.com/nirholas/expiry-settle/issues)
+- [Discussions](https://github.com/nirholas/expiry-settle/discussions)
+- [Homepage](https://expiry-settle.pages.dev)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
