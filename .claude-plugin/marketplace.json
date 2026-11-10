@@ -1,0 +1,23 @@
+{
+  "name": "expiry-settle",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "ExpirySettleHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+  "plugins": [
+    {
+      "name": "expiry-settle",
+      "source": "./",
+      "description": "ExpirySettleHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+      "tags": [
+        "uniswap-v4",
+        "hooks",
+        "solidity",
+        "foundry",
+        "expiry",
+        "settlement",
+        "dynamic-fee"
+      ]
+    }
+  ]
+}

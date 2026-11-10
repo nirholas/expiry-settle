@@ -1,0 +1,20 @@
+{
+  "name": "expiry-settle",
+  "version": "1.0.0",
+  "description": "ExpirySettleHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/expiry-settle",
+  "license": "Apache-2.0",
+  "keywords": [
+    "uniswap-v4",
+    "hooks",
+    "solidity",
+    "foundry",
+    "expiry",
+    "settlement",
+    "dynamic-fee"
+  ],
+  "homepage": "https://expiry-settle.pages.dev"
+}
